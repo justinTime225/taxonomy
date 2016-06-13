@@ -1,0 +1,1 @@
+A project I worked on during Hack Reactor in dealing with Javascript's subclass and inheritance
